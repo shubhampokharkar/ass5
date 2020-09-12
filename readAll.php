@@ -1,6 +1,6 @@
 <?php
 include "../core/Database.php";
-include "../core/Student.php";
+include "../core/Dance.php";
 
 header('Content-type: application/json');
 
